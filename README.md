@@ -66,4 +66,4 @@ Add voice support (text-to-speech & speech-to-text in Somali)
  🚀 Try it out
 
 👉 Live demo coming soon on Hugging Face
-👉 GitHub repo: \[
+👉 GitHub repo: \[https://github.com/edureachai/Somali-AI-Assistant]
